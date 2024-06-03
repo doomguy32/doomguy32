@@ -1,4 +1,8 @@
-## Hi there 👋
+## olá povo bonito:)
+Meu nome e kauã, Eu estou realizando projetos alura em minha escola, Utilizando o Github![image](https://github.com/doomguy32/doomguy32/assets/171614912/95c1274e-fd51-4de2-8071-3e74e3987118)
+
+
+
 
 <!--
 **doomguy32/doomguy32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
